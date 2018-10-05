@@ -1,0 +1,16 @@
+{
+  "name": "ProductsApp",
+  "version": "0.0.1",
+  "description": "First Node App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikhil Deshpande",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "body-parser": "~1.18.3",
+    "express": "~4.16.3",
+    "mongoose": "~5.3.0"
+  }
+}
